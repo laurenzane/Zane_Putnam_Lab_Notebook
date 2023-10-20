@@ -6,9 +6,9 @@ category: Protocol
 tags: [Protocol],[IntBio]
 ---
 
-## 20230915 Lipid assay test
+## 20231020 Lipid assay test
 
-This protocol was modified from [Bove & Baumann 2021](https://www.protocols.io/view/coral-lipid-assay-for-96-well-plates-q26g789pqlwz/v1) and L. Fuess lipid protocol. We are testing the lipid assay with coral eggs, embryos, and larvae.
+This protocol was modified from [Bove & Baumann 2021](https://www.protocols.io/view/coral-lipid-assay-for-96-well-plates-q26g789pqlwz/v1) and L. Fuess lipid protocol. I did not test homogenate samples today.
 
 Following the [lipid assay trials](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2023-09-26-Lipid-Assay-Test.md?plain=1) completed with Jill, we talked through some troubleshooting steps. We noticed that in previous trials that the addition of phosphoric acid during the second read resulted in overfilled values on the spec for tubes 1-5. In tubes 6 and 7 (7 is the chloroform BLANK), spec values exceeded 3.8, which is almost the maximum value for the spec.
 
