@@ -144,10 +144,13 @@ I have found that it is best to make the standards after pouring/prepping reagen
 - scroll through protocols to locate "LIPID" protocol.
 11. Transfer 75 uL from the PCR well plate into a new 96 well plate.
 
-![]()
+![](https://github.com/laurenzane/Zane_Putnam_Lab_Notebook/blob/master/images/lipid-trial-20231020/1-platemap.jpg)
+
 12. Run an initial absorbance reading on the plate reader at 540 nm. This is a baseline measurement that will be used for correcting the final plate absorbance.
 
-![]()
+![](https://github.com/laurenzane/Zane_Putnam_Lab_Notebook/blob/master/images/lipid-trial-20231020/2-96-well-plate-initial.jpg)
+
+![](https://github.com/laurenzane/Zane_Putnam_Lab_Notebook/blob/master/images/lipid-trial-20231020/3-spec-initial.jpg)
 
 13. Remove the plate from the plate reader and add 34.5 uL of 0.2 mg/mL vanillin in 17% phosphoric acid to each well.
 - for this trial, I added 17.2uL of 0.2 mg/mL vanillin in 17% phosphoric acid to standards 1A-7A.
@@ -155,16 +158,18 @@ I have found that it is best to make the standards after pouring/prepping reagen
 14. Incubate the plate in the dark at room temperature for 5 minutes.
 15. Read the plate again at 540 nm.
 
-![]()
+![](https://github.com/laurenzane/Zane_Putnam_Lab_Notebook/blob/master/images/lipid-trial-20231020/4-96-well-plate-secondread.jpg)
+
+![](https://github.com/laurenzane/Zane_Putnam_Lab_Notebook/blob/master/images/lipid-trial-20231020/5-spec-secondread.jpg)
 
 ### Next Steps
 
 1. phosphoric acid volume range
 - make six sets of standards
-a. 17.2uL
-b. 20.7 uL
-c. 24.2 uL
-d. 27.7 uL
-e. 31.2 uL
-f. 34.5 uL
+  a. 17.2uL
+  b. 20.7 uL
+  c. 24.2 uL
+  d. 27.7 uL
+  e. 31.2 uL
+  f. 34.5 uL
 2. homogenate volume range
